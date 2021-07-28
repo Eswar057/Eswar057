@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI , creativity
 - 🌱 I’m currently learning web development and python -> AI
 - 💞️ I’m looking to collaborate on my career & my life..
-- 📫 ...
+- 📫 Reach me at eswar241201@gmail.com
 
 <!---
 Eswar057/Eswar057 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
