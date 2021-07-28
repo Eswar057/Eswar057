@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eswar057
 - 👀 I’m interested in AI , creativity
 - 🌱 I’m currently learning web development and python -> AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my career & my life..
 - 📫 ...
 
 <!---
