@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my career & my life..
 - 📫 Reach me at eswar241201@gmail.com
 - Portfolio - http://eswar2412.netlify.app
-- Memories app -  https://memories-app057es.netlify.app  ( Install and enjoy )
+- News app -  https://memories-2412es.netlify.app/  ( Install and explore)
 
 <!---
 Eswar057/Eswar057 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
