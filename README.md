@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and python -> AI
 - 💞️ I’m looking to collaborate on my career & my life..
 - 📫 Reach me at eswar241201@gmail.com
-- Portfolio - http://eswar2412.netlify.app
+- Portfolio - http://eswar2412.netlify.app , https://portfolio-2412.netlify.app/index.html
 - News app -  https://memories-2412es.netlify.app/  ( Install and explore)
 
 <!---
